@@ -1,0 +1,31 @@
+name: Feature request
+description: Suggest an improvement for a TYKAIRO AI public project
+title: "[Feature]: "
+labels: ["enhancement"]
+body:
+  - type: input
+    id: project
+    attributes:
+      label: Project
+      placeholder: SIA Agent Runtime, AgentShield, ViralScout...
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem or use case
+      description: What problem would this feature solve?
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposed solution
+      description: Describe the behavior or workflow you would like.
+    validations:
+      required: true
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternatives considered
+      description: Optional — describe any alternatives or workarounds.
