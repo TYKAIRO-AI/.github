@@ -61,7 +61,7 @@ Our public repositories are being organized under the TYKAIRO AI identity while 
 
 - [SIA Agent Runtime](https://github.com/Turkeyz1/SIA-Agent-Runtime) — public architecture, reliability research, and safe examples
 - [AgentShield](https://github.com/Turkeyz1/AgentShield) — product documentation
-- [AgentShield MCP Inspector Lite](https://github.com/Turkeyz1/AgentShield-MCP-Inspector) — free MCP metadata security inspector
+- [AgentShield MCP Inspector Lite](https://github.com/TYKAIRO-AI/AgentShield-MCP-Inspector) — free MCP metadata security inspector
 - [ViralScout MCP](https://github.com/Turkeyz1/ViralScout-MCP) — free short-form creator toolkit
 
 ---
