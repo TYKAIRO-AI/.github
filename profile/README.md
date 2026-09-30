@@ -66,6 +66,13 @@ Our public repositories are being organized under the TYKAIRO AI identity while 
 
 ---
 
+## Official Links
+
+- **Products & Skills:** https://capafy.ai/ar/publisher/Mahmoud-Hisham
+- **Founder LinkedIn:** https://www.linkedin.com/in/mahmoud-hisham-60a081258
+
+---
+
 ## Founder
 
 **Mahmoud Hisham**  
