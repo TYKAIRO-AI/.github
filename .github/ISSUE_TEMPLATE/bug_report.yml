@@ -1,0 +1,45 @@
+name: Bug report
+description: Report a reproducible problem in a TYKAIRO AI public project
+title: "[Bug]: "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for helping improve TYKAIRO AI projects. Please do not include secrets, credentials, or private data.
+  - type: input
+    id: project
+    attributes:
+      label: Project
+      description: Which TYKAIRO AI project is affected?
+      placeholder: SIA Agent Runtime, AgentShield, ViralScout...
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: What happened?
+      description: Describe the problem and what you expected instead.
+    validations:
+      required: true
+  - type: textarea
+    id: reproduce
+    attributes:
+      label: Steps to reproduce
+      description: Give the smallest reproducible sequence you can.
+      placeholder: |
+        1. ...
+        2. ...
+        3. ...
+    validations:
+      required: true
+  - type: input
+    id: environment
+    attributes:
+      label: Environment
+      placeholder: OS, runtime version, project version or commit
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Logs or evidence
+      description: Add relevant logs or screenshots after removing secrets and personal data.
