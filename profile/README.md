@@ -19,7 +19,7 @@ Security tooling for inspecting AI Skills and MCP servers before they are truste
 ### MCPForge
 OpenAPI → MCP infrastructure for transforming APIs into structured, agent-ready MCP tools and servers with validation, security classification, manifests, and deployment-oriented tooling.
 
-### [ViralScout](https://github.com/Turkeyz1/ViralScout-MCP)
+### [ViralScout](https://github.com/TYKAIRO-AI/ViralScout-MCP)
 AI-powered creator tooling for analyzing short-form content, hooks, retention patterns, remix opportunities, content gaps, and creator workflows.
 
 ---
@@ -62,7 +62,7 @@ Our public repositories are being organized under the TYKAIRO AI identity while 
 - [SIA Agent Runtime](https://github.com/Turkeyz1/SIA-Agent-Runtime) — public architecture, reliability research, and safe examples
 - [AgentShield](https://github.com/Turkeyz1/AgentShield) — product documentation
 - [AgentShield MCP Inspector Lite](https://github.com/TYKAIRO-AI/AgentShield-MCP-Inspector) — free MCP metadata security inspector
-- [ViralScout MCP](https://github.com/Turkeyz1/ViralScout-MCP) — free short-form creator toolkit
+- [ViralScout MCP](https://github.com/TYKAIRO-AI/ViralScout-MCP) — free short-form creator toolkit
 
 ---
 
