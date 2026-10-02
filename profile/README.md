@@ -2,48 +2,77 @@
 
 ### Build Intelligence. Ship Utility.
 
-TYKAIRO AI builds practical AI products, intelligent agents, automation systems, MCP infrastructure, and developer tools.
+**AI Agents · MCP Infrastructure · AI Security · Developer Tools · Local-First AI**
 
-Founded by **Mahmoud Hisham**, TYKAIRO AI focuses on turning AI capabilities into useful, reliable products for developers, creators, and businesses.
+TYKAIRO AI builds practical AI products and infrastructure focused on reliability, security, automation, and real-world utility.
+
+Founded by **Mahmoud Hisham**, the studio develops AI agent runtimes, MCP tooling, security products, creator tools, and automation systems.
+
+---
+
+## 🚀 Featured Public Projects
+
+### 🛡️ [AgentShield MCP Inspector Lite](https://github.com/TYKAIRO-AI/AgentShield-MCP-Inspector)
+Free MCP tool-metadata security inspector with explainable SAFE, REVIEW, and HIGH RISK verdicts.
+
+### 🧠 [SIA — Structured Intelligence Agent](https://github.com/TYKAIRO-AI/SIA-Agent-Runtime)
+Local-first AI agent runtime research focused on structured planning, tool intelligence, verification, bounded recovery, and evidence-based completion.
+
+### 🎬 [ViralScout MCP](https://github.com/TYKAIRO-AI/ViralScout-MCP)
+Free short-form content analysis toolkit for hooks, retention, remix ideas, script frameworks, and creator workflows.
+
+### 🛡️ [AgentShield](https://github.com/TYKAIRO-AI/AgentShield)
+Commercial AI Skill and MCP security inspection product focused on evidence-based risk analysis.
 
 ---
 
 ## What We Build
 
-### [SIA — Structured Intelligence Agent](https://github.com/TYKAIRO-AI/SIA-Agent-Runtime)
-A local-first AI agent runtime focused on making smaller language models more reliable for real software-development work through structured planning, tool intelligence, verification, recovery, and evidence-based completion.
-
-### [AgentShield](https://github.com/TYKAIRO-AI/AgentShield)
-Security tooling for inspecting AI Skills and MCP servers before they are trusted. AgentShield focuses on explainable findings, capability analysis, permissions, credentials, network access, filesystem access, and other agent security risks.
-
-### MCPForge
-OpenAPI → MCP infrastructure for transforming APIs into structured, agent-ready MCP tools and servers with validation, security classification, manifests, and deployment-oriented tooling.
-
-### [ViralScout](https://github.com/TYKAIRO-AI/ViralScout-MCP)
-AI-powered creator tooling for analyzing short-form content, hooks, retention patterns, remix opportunities, content gaps, and creator workflows.
+- **AI Agents** — reliable runtime layers and orchestration
+- **MCP Infrastructure** — tools and servers for agent interoperability
+- **AI Security** — inspection, permissions, evidence, and risk analysis
+- **Developer Tools** — practical tooling around AI workflows
+- **Local-First AI** — systems designed to work with smaller local models
+- **Automation** — business and workflow automation
+- **Creator AI** — tools for content analysis and production workflows
 
 ---
 
-## Engineering Focus
+## Product Family
 
-- AI Agents
-- MCP & Agent Infrastructure
-- Developer Tools
-- AI Security
-- Local-First AI
-- Automation
-- Creator AI Tools
-- Reliable Small-Model Systems
+| Product | Focus | Public status |
+|---|---|---|
+| **SIA** | Reliable local AI agent runtime | Public architecture & research |
+| **AgentShield** | AI Skill / MCP security inspection | Product docs + public Lite edition |
+| **MCPForge** | OpenAPI → MCP infrastructure | In development |
+| **ViralScout** | Short-form creator intelligence | Public MCP toolkit |
 
 ---
 
-## Our Approach
+## Engineering Principles
 
-Useful AI products need more than model intelligence.
+We believe useful AI products need more than model intelligence.
 
-They need **structure, verification, security, reliability, and practical utility.**
+They need:
 
-TYKAIRO AI builds the systems around AI models that help turn capability into dependable software.
+- structure
+- verification
+- security
+- bounded recovery
+- observable evidence
+- practical user workflows
+
+TYKAIRO AI builds the systems around AI models that help turn raw capability into dependable software.
+
+---
+
+## Open Source & Public Work
+
+Our public repositories are organized under the TYKAIRO AI identity while proprietary production code remains private where appropriate.
+
+We welcome useful bug reports, reproducible test cases, feature ideas, and technical discussion on the public projects.
+
+If a project helps you, starring its repository is the easiest way to support its visibility and follow its progress.
 
 ---
 
@@ -52,17 +81,6 @@ TYKAIRO AI builds the systems around AI models that help turn capability into de
 **TYKAIRO Creator Partners** is our collaboration program for creators who genuinely test and demonstrate AI products.
 
 Partners may receive early product access and referral-based revenue opportunities while keeping full independence over their opinions and reviews.
-
----
-
-## Open Source & Public Projects
-
-Our public repositories are being organized under the TYKAIRO AI identity while preserving project history and existing integrations.
-
-- [SIA Agent Runtime](https://github.com/TYKAIRO-AI/SIA-Agent-Runtime) — public architecture, reliability research, and safe examples
-- [AgentShield](https://github.com/TYKAIRO-AI/AgentShield) — product documentation
-- [AgentShield MCP Inspector Lite](https://github.com/TYKAIRO-AI/AgentShield-MCP-Inspector) — free MCP metadata security inspector
-- [ViralScout MCP](https://github.com/TYKAIRO-AI/ViralScout-MCP) — free short-form creator toolkit
 
 ---
 
